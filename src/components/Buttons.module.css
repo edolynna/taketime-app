@@ -1,0 +1,19 @@
+.timerButton {
+    margin-top: 192px;
+    position: absolute;
+}
+  
+.timerButton button:first-child {
+    margin-right: 15px;
+}
+  
+button {
+    padding: 0;
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    color: var(--purple);
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+}
